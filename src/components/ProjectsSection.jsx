@@ -10,7 +10,7 @@ const projectsData = [
     description: "This is a project developed as a prototype for my bachelor's thesis where it's function is to help the learning process of IT related tecnologies. The way it does that is by having a simple and modular approach where one can use the baseline structure provided to make tutorials with the content that already exist, but is scattered across the internet, gathering it all in a single place to help save of the users of the modules created with this project.",
     image: "/images/projects/ProgressiveTutor.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/ArturRA/progressive_tutor_tutorial",
     previewUrl: "/",
   },
   {
@@ -19,7 +19,7 @@ const projectsData = [
     description: "This is the note keeping web application developped for the web module of ProgressiveTutor.",
     image: "/images/projects/MultiplataformApp.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/ArturRA/progressive_tutor_multiplataform",
     previewUrl: "/",
   },
   {
@@ -28,7 +28,7 @@ const projectsData = [
     description: "This is the note keeping desktop application developped for the desktop module of ProgressiveTutor.",
     image: "/images/projects/DesktopApp.png",
     tag: ["All", "Desktop"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/ArturRA/NoteKeeperTCC",
     previewUrl: "/",
   },
 ];
