@@ -21,7 +21,6 @@ const HeroSection = () => {
               "Mobile Developer",
               1000,
             ]}
-            wrapper="span"
             speed={50}
             repeat={Infinity}
           />
@@ -45,9 +44,9 @@ const HeroSection = () => {
           <Image
             src="/images/photo.jpg"
             alt="photo"
+            width={3472}
+            height={3472}
             className="absolute inset-0 w-full h-full object-cover"
-            layout="fill"
-            objectFit="cover"
           />
         </div>
       </div>
